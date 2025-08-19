@@ -10,7 +10,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost', '123.123.123.123', '127.0.0.1', 'alexeycomplex2025.ddns.net'
-    ]
+]
 
 
 # Application definition
